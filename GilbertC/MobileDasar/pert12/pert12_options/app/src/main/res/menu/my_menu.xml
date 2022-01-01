@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/New"
+        android:title="New">
+        <menu>
+            <item android:id="@+id/newFile"
+                android:title="New File"/>
+            <item android:id="@+id/newFolder"
+                android:title="New Folder"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/open"
+        android:title="Open"/>
+    <item
+        android:id="@+id/help"
+        android:title="Help"/>
+</menu>

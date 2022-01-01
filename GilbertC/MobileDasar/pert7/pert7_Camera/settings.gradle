@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "pert7_Camera"
